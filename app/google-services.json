@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "305518264606",
+    "firebase_url": "https://todoodle-8cc0d.firebaseio.com",
+    "project_id": "todoodle-8cc0d",
+    "storage_bucket": "todoodle-8cc0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305518264606:android:dbb66509b65c3773",
+        "android_client_info": {
+          "package_name": "com.sky.todoodle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305518264606-c1h9hj31m8d4hib0uerkb2lplra2dvdv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sky.todoodle",
+            "certificate_hash": "6a7514e7ecb29bdbf67ccef4384d1f80fe83ce87"
+          }
+        },
+        {
+          "client_id": "305518264606-08nbh7pcv85t5fhun11p4bsi4p3kcs6d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiEFDDJl7vyPS4EEysttefx1AXy9A8D6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305518264606-08nbh7pcv85t5fhun11p4bsi4p3kcs6d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
